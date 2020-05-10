@@ -1,0 +1,17 @@
+C:\DnTinder\Domain\DomainTests\bin\Debug\netcoreapp3.1\DomainTests.exe
+C:\DnTinder\Domain\DomainTests\bin\Debug\netcoreapp3.1\DomainTests.deps.json
+C:\DnTinder\Domain\DomainTests\bin\Debug\netcoreapp3.1\DomainTests.runtimeconfig.json
+C:\DnTinder\Domain\DomainTests\bin\Debug\netcoreapp3.1\DomainTests.runtimeconfig.dev.json
+C:\DnTinder\Domain\DomainTests\bin\Debug\netcoreapp3.1\DomainTests.dll
+C:\DnTinder\Domain\DomainTests\bin\Debug\netcoreapp3.1\DomainTests.pdb
+C:\DnTinder\Domain\DomainTests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\DnTinder\Domain\DomainTests\obj\Debug\netcoreapp3.1\DomainTests.csprojAssemblyReference.cache
+C:\DnTinder\Domain\DomainTests\obj\Debug\netcoreapp3.1\DomainTests.csproj.CoreCompileInputs.cache
+C:\DnTinder\Domain\DomainTests\obj\Debug\netcoreapp3.1\DomainTests.AssemblyInfoInputs.cache
+C:\DnTinder\Domain\DomainTests\obj\Debug\netcoreapp3.1\DomainTests.AssemblyInfo.cs
+C:\DnTinder\Domain\DomainTests\obj\Debug\netcoreapp3.1\DomainTests.csproj.CopyComplete
+C:\DnTinder\Domain\DomainTests\obj\Debug\netcoreapp3.1\DomainTests.dll
+C:\DnTinder\Domain\DomainTests\obj\Debug\netcoreapp3.1\DomainTests.pdb
+C:\DnTinder\Domain\DomainTests\obj\Debug\netcoreapp3.1\DomainTests.genruntimeconfig.cache
+C:\DnTinder\Domain\DomainTests\bin\Debug\netcoreapp3.1\GraphManipulation.dll
+C:\DnTinder\Domain\DomainTests\bin\Debug\netcoreapp3.1\GraphManipulation.pdb

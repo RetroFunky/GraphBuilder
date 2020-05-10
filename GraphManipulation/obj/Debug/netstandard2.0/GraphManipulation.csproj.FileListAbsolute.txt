@@ -1,0 +1,9 @@
+C:\DnTinder\Domain\GraphManipulation\bin\Debug\netstandard2.0\GraphManipulation.deps.json
+C:\DnTinder\Domain\GraphManipulation\bin\Debug\netstandard2.0\GraphManipulation.dll
+C:\DnTinder\Domain\GraphManipulation\obj\Debug\netstandard2.0\GraphManipulation.csprojAssemblyReference.cache
+C:\DnTinder\Domain\GraphManipulation\obj\Debug\netstandard2.0\GraphManipulation.AssemblyInfoInputs.cache
+C:\DnTinder\Domain\GraphManipulation\obj\Debug\netstandard2.0\GraphManipulation.AssemblyInfo.cs
+C:\DnTinder\Domain\GraphManipulation\bin\Debug\netstandard2.0\GraphManipulation.pdb
+C:\DnTinder\Domain\GraphManipulation\obj\Debug\netstandard2.0\GraphManipulation.csproj.CoreCompileInputs.cache
+C:\DnTinder\Domain\GraphManipulation\obj\Debug\netstandard2.0\GraphManipulation.dll
+C:\DnTinder\Domain\GraphManipulation\obj\Debug\netstandard2.0\GraphManipulation.pdb
